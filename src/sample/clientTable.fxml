@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="700.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.ControllerTable">
+   <children>
+      <Button fx:id="Sort" layoutX="96.0" layoutY="618.0" mnemonicParsing="false" prefHeight="50.0" prefWidth="112.0" text="Сортировать" />
+      <Button fx:id="back" layoutX="377.0" layoutY="612.0" mnemonicParsing="false" prefHeight="50.0" prefWidth="112.0" text="Назад" />
+   </children>
+</AnchorPane>
